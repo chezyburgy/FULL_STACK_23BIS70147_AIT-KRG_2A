@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+#canvas {
+  border: 1px solid black;
+  display: block;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
